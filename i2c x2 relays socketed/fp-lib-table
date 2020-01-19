@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name LY20)(type KiCad)(uri ${KIPRJMOD}/LY20)(options "")(descr ""))
+  (lib (name mylibs)(type KiCad)(uri ${KIPRJMOD}/mylibs.pretty)(options "")(descr ""))
+)
